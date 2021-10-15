@@ -1,4 +1,4 @@
----
+---https://github.com/elementosprogramacion/elementosprogramacion.github.io/blob/18c54073476f3e7efebe0348928af70342d886fe/u11_ej_corte_de_control.htmlRous110508-patch-1
 title: Troubleshooting commit signature verification
 intro: 'You may need to troubleshoot unexpected issues that arise when signing commits locally for verification on {% data variables.product.product_name %}.'
 redirect_from:
